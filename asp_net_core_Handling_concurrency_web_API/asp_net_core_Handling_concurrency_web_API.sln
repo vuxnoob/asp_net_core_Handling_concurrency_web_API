@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "asp_net_core_Handling_concurrency_web_API", "asp_net_core_Handling_concurrency_web_API.csproj", "{40E3EF1D-108D-402D-B3B7-B4A8CFB00EA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40E3EF1D-108D-402D-B3B7-B4A8CFB00EA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40E3EF1D-108D-402D-B3B7-B4A8CFB00EA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40E3EF1D-108D-402D-B3B7-B4A8CFB00EA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40E3EF1D-108D-402D-B3B7-B4A8CFB00EA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FB79BD9-06A8-40F4-9E79-F25BD4B65122}
+	EndGlobalSection
+EndGlobal
